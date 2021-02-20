@@ -12,6 +12,3 @@ file
 	Docs readonly separator,
 	src.tpp;
 
-mainconfig
-	"" = "";
-

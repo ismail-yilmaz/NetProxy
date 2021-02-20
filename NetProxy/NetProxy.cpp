@@ -4,7 +4,7 @@ namespace Upp {
 
 const char* NetProxy::GetMsg(int code)
 {
-	static Tuple<int, const char*> errors[] = {
+	static const Tuple<int, const char*> errors[] = {
 		// NetProxy error messages.
 		{ 10000,	t_("No client to serve (No socket attached).") },
 		{ 10001,	t_("Proxy address or port not specified.") },
