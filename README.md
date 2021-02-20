@@ -17,7 +17,7 @@ This package implements a client-side network proxy class, encapsulating two wid
 
 Two examples are provided with the package.
 
-|**Name**            | **Description**                                                             |
-|:---                |:---                                                                         |
-| SocksProxyExample  | Demonstrates a simple, blocking `SOCKS5` connection to a target machine.    |
-| SocksProxtExamplNB | Demonstrates a simple, non-blocking `SOCKS5` connection to a target machine |
+|**Name**             | **Description**                                                             |
+|:---                 |:---                                                                         |
+| SocksProxyExample   | Demonstrates a simple, blocking `SOCKS5` connection to a target machine.    |
+| SocksProxtExampleNB | Demonstrates a simple, non-blocking `SOCKS5` connection to a target machine |
