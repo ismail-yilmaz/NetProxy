@@ -1,6 +1,6 @@
-# NetProxy package for Ultimate++
+# NetProxy Package for U++
 
-This package implements a network proxy class, encapsulating two widely used network proxy protocols: HTTP tunneling and SOCKS
+This package implements a client-side network proxy class, encapsulating two widely used network proxy protocols: HTTP tunneling and SOCKS
 
 ## Features and Highlights
 
